@@ -1,3 +1,5 @@
+// Rabi Khan 2380276
+
 void main() {
   List<String> sentences = [
     "this is a test this is",
@@ -26,3 +28,4 @@ void main() {
     print('$highestWords frequency:  ${i + 1}');
   }
 }
+
